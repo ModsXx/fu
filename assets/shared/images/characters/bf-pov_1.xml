@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="BF.png">
+<SubTexture name="BF Down0000" x="2463" y="1445" width="253" height="274" frameX="-505" frameY="-335" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Down0001" x="2463" y="1167" width="251" height="278" frameX="-505" frameY="-331" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0000" x="701" y="0" width="273" height="370" frameX="-503" frameY="-239" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0001" x="526" y="1463" width="251" height="308" frameX="-503" frameY="-301" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0002" x="2212" y="297" width="251" height="296" frameX="-503" frameY="-313" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0003" x="1043" y="1463" width="251" height="298" frameX="-503" frameY="-311" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0004" x="1294" y="1463" width="251" height="298" frameX="-503" frameY="-311" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0005" x="1545" y="1463" width="251" height="298" frameX="-502" frameY="-311" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0006" x="0" y="1463" width="251" height="316" frameX="-503" frameY="-293" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0007" x="767" y="791" width="252" height="342" frameX="-502" frameY="-267" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0008" x="0" y="791" width="251" height="347" frameX="-502" frameY="-262" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0009" x="974" y="0" width="250" height="349" frameX="-502" frameY="-260" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0010" x="704" y="430" width="251" height="352" frameX="-501" frameY="-257" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0011" x="449" y="430" width="255" height="356" frameX="-501" frameY="-253" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0012" x="974" y="349" width="250" height="347" frameX="-501" frameY="-262" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0013" x="1224" y="0" width="251" height="341" frameX="-500" frameY="-269" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0014" x="1224" y="341" width="250" height="331" frameX="-501" frameY="-279" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0015" x="0" y="1138" width="251" height="325" frameX="-500" frameY="-285" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Abajo 0016" x="2463" y="1719" width="251" height="245" frameX="-500" frameY="-365" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0000" x="0" y="1779" width="568" height="297" frameX="-471" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0001" x="568" y="1779" width="403" height="297" frameX="-470" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0002" x="251" y="1463" width="275" height="313" frameX="-468" frameY="-298" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0003" x="777" y="1463" width="266" height="303" frameX="-477" frameY="-308" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0004" x="1069" y="2076" width="268" height="293" frameX="-475" frameY="-318" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0005" x="1337" y="2076" width="268" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0006" x="1605" y="2076" width="267" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0007" x="1872" y="2076" width="267" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0008" x="2139" y="2076" width="267" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0009" x="2463" y="0" width="267" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0010" x="0" y="2373" width="279" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0011" x="279" y="2373" width="272" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0012" x="2463" y="292" width="267" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0013" x="2463" y="292" width="267" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Izquierda 0014" x="2463" y="584" width="267" height="292" frameX="-475" frameY="-319" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0000" x="971" y="1779" width="336" height="297" frameX="-424" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0001" x="1946" y="298" width="264" height="297" frameX="-495" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0002" x="1307" y="1779" width="272" height="297" frameX="-530" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0003" x="1946" y="595" width="266" height="297" frameX="-523" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0004" x="1946" y="892" width="253" height="297" frameX="-510" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0005" x="1946" y="1189" width="251" height="297" frameX="-509" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0006" x="1579" y="1779" width="251" height="297" frameX="-509" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0007" x="1830" y="1779" width="251" height="297" frameX="-509" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Derecha 0008" x="2212" y="0" width="251" height="297" frameX="-509" frameY="-314" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0000" x="0" y="0" width="229" height="430" frameX="-503" frameY="-287" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0001" x="1710" y="640" width="229" height="316" frameX="-503" frameY="-287" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0002" x="236" y="430" width="213" height="358" frameX="-523" frameY="-246" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0003" x="1224" y="672" width="234" height="331" frameX="-521" frameY="-273" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0004" x="251" y="1138" width="235" height="324" frameX="-515" frameY="-280" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0005" x="722" y="1138" width="236" height="320" frameX="-515" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0006" x="465" y="0" width="236" height="398" frameX="-515" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0007" x="229" y="0" width="236" height="399" frameX="-515" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0008" x="958" y="1138" width="236" height="320" frameX="-515" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0009" x="1194" y="1138" width="236" height="320" frameX="-515" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0010" x="1475" y="0" width="235" height="320" frameX="-516" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0011" x="1710" y="0" width="236" height="320" frameX="-516" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0012" x="486" y="1138" width="236" height="324" frameX="-516" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0013" x="531" y="791" width="236" height="343" frameX="-516" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0014" x="0" y="430" width="236" height="361" frameX="-516" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Arriba 0015" x="1710" y="320" width="236" height="320" frameX="-516" frameY="-284" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Idle0000" x="551" y="2373" width="285" height="281" frameX="-470" frameY="-323" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Idle0001" x="836" y="2373" width="276" height="281" frameX="-471" frameY="-323" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Idle0002" x="2463" y="876" width="266" height="291" frameX="-478" frameY="-313" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Idle0003" x="541" y="2076" width="265" height="296" frameX="-479" frameY="-308" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Idle0004" x="806" y="2076" width="263" height="296" frameX="-481" frameY="-307" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Left0000" x="0" y="2076" width="273" height="297" frameX="-470" frameY="-306" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Left0001" x="273" y="2076" width="268" height="297" frameX="-475" frameY="-306" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Right0000" x="1946" y="0" width="266" height="298" frameX="-495" frameY="-305" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Right0001" x="251" y="791" width="280" height="347" frameX="-493" frameY="-256" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Up0000" x="1710" y="956" width="220" height="316" frameX="-515" frameY="-287" frameWidth="1280" frameHeight="720" />
+<SubTexture name="BF Up0001" x="1475" y="320" width="221" height="313" frameX="-516" frameY="-290" frameWidth="1280" frameHeight="720" />
+</TextureAtlas>
