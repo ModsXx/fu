@@ -1,0 +1,144 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				-1
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "BF Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				-2
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "BF Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				17,
+				13
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "BF Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "BF Up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				-2
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "BF Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				4,
+				10
+			],
+			"anim": "singLEFT-alt",
+			"fps": 14,
+			"name": "BF Izquierda ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				9
+			],
+			"anim": "singDOWN-alt",
+			"fps": 14,
+			"name": "BF Abajo ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-7,
+				-2
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "BF Arriba ",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-4,
+				9
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "BF Derecho ",
+			"indices": []
+		},
+		{
+			"offsets": [
+				30,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "wa",
+			"indices": [],
+			"name": "BF Up"
+		},
+		{
+			"offsets": [
+				9,
+				-1
+			],
+			"loop": false,
+			"fps": 30,
+			"anim": "dead",
+			"indices": [],
+			"name": "BF Dead"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/bf-pov_3",
+	"position": [
+		-60,
+		-190
+	],
+	"healthicon": "bfzero",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-480,
+		20
+	],
+	"sing_duration": 4,
+	"scale": 2.5
+}
